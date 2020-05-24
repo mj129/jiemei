@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Jie Mei
+role: Ph.D
 
 # Organizations/Affiliations
 organizations:
