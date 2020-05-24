@@ -1,6 +1,6 @@
 +++
 title = "PSASL: Pixel-Level and Superpixel- Level Aware Subspace Learning for Hyperspectral Image Classification"
-date = 2018-05-25T00:00:00
+date = Jul 2019
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jie Mei", "Yuebin Wang", "Liqiang Zhang", "Bing Zhang", "Suhong Liu", "Panpan Zhu",  "Yingchao Ren"]
@@ -18,11 +18,11 @@ authors = ["Jie Mei", "Yuebin Wang", "Liqiang Zhang", "Bing Zhang", "Suhong Liu"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Geoscience and Remote Sensing*"
-publication_short = "*TGRS*"
+publication = "Jie Mei, Yuebin Wang, Liqiang Zhang, Bing Zhang, Suhong Liu, Panpan Zhu, and Yingchao Ren, “PSASL: Pixel-Level and Superpixel- Level Aware Subspace Learning for Hyperspectral Image Classification,” *IEEE Transactions on Geoscience and Remote Sensing*, 57 (7), pp. 4278 – 4293, Jul. 2019. (JCR-Q1) "
+publication_short = "*IEEE Transactions on Geoscience and Remote Sensing*"
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+#abstract = "The performance of hyperspectral image (HSI) classiﬁcation relies on the pixel information obtained from hundreds of contiguous and narrow spectral bands. Existing approaches, however, are limited to exploit an appropriate latent subspace for data representation within the pixel-level or superpixellevel. To utilize spectral information and spatial correlation among pixels in HSI and avoid the “salt-and-pepper” problem generated in the pixel-based HSI classiﬁcation, a novel pixellevel and superpixel-level aware subspace learning method called PSASL is developed. The PSASL constructs the subspace learning framework based on the reconstruction independent component analysis algorithm. The spectral–spatial graph regularization and label space regularization are developed as the pixel-level constraints. To avoid the “salt-and-pepper” problem generated in the pixel-based classiﬁcation methods, superpixel-level constraints are introduced for integrating the data representations deﬁned in the subspace and class probabilities of the pixels in the same superpixel. The subspace learning and the pixellevel regularization are combined with the superpixel-level regularization to form a uniﬁed objective function. The solution to the objective function is efﬁciently achieved by employing a customized iterative algorithm, and it converges very fast. A discriminative data representation and a universal multiclass classiﬁer are learned simultaneously. We test the PSASL on three widely used HSI data sets. Experimental results demonstrate the superior performance of our method over many recently proposed methods in HSI classiﬁcation."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -54,7 +54,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "papers/PSASL--Pixel-Level and Superpixel-Level Aware Subspace Learning for Hyperspectral Image Classification.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
@@ -65,17 +65,17 @@ slides = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{name = "Custom Link", url = "http://example.org"}]
+#links = [{name = "Custom Link", url = "http://example.org"}] url_custom = [{name = "Github", url = ""}] 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  #focal_point = ""
 +++
 
 {{% alert note %}}
