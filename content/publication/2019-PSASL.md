@@ -54,7 +54,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "papers/PSASL--Pixel-Level and Superpixel-Level Aware Subspace Learning for Hyperspectral Image Classification.pdf"
+url_pdf = "publication/papers/PSASL--Pixel-Level and Superpixel-Level Aware Subspace Learning for Hyperspectral Image Classification.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
