@@ -35,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ tags = ["Source Themes"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -51,7 +51,7 @@ projects = ["internal-project"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example"
+slides = ""
 
 # Links (optional).
 #url_pdf = ""
