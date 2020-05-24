@@ -1,6 +1,6 @@
 +++
 title = "PSASL: Pixel-Level and Superpixel- Level Aware Subspace Learning for Hyperspectral Image Classification"
-date = "2019-07"
+date = "2019-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jie Mei", "Yuebin Wang", "Liqiang Zhang", "Bing Zhang", "Suhong Liu", "Panpan Zhu",  "Yingchao Ren"]
