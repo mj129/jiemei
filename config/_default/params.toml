@@ -97,7 +97,7 @@ directions = "" #"Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "" #["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = [] #["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "" #"https://calendly.com"
@@ -128,9 +128,9 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
@@ -140,7 +140,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "c", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
