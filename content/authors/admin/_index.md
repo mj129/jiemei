@@ -10,7 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D
+role: Jie Mei
+
+Ph.D
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contatc' #'mailto:meijie0507@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:meijie0507@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jie_Mei20?ev=hdr_xprf&_sg=k0vhbIqBNbyxCrfrfBB00qXMEyCGyaWcxUChy4AMpWgNPZGmE5WAfYWaywnjiVFkfCoyokMsPC-idlMZaFRp_8rW
