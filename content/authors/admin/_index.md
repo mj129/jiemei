@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Jie Mei (梅杰)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Nankai University
+  url: "https://www.nankai.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning, Computer Vision and Remote-sensing Image.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Computer Vision
+- Remote-sensing Image
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D in Computer Science
+    institution: Nankai University
+    year: 2019 --
+  - course: M.Sc. in Geographic Information System
+    institution: Beijing Normal University
+    year: 2016 -- 2019
+  - course: B.Sc. in Geographic Information System
+    institution: Beijing Normal University
+    year: 2012 -- 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jie_Mei20?ev=hdr_xprf&_sg=k0vhbIqBNbyxCrfrfBB00qXMEyCGyaWcxUChy4AMpWgNPZGmE5WAfYWaywnjiVFkfCoyokMsPC-idlMZaFRp_8rW
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.hk/citations?hl=en&user=E-h9t18AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mj129
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D student at [Media Computing Lab](https://mmcheng.net/) of Nankai University, my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). I received my M.Sc. degree in the Faculty of Geographical Science, Beijing Normal University, advised by Prof. [Liqiang Zhang](http://www.escience.cn/people/zhangliqiang/index.html). I got the B.Sc. degree at Beijing Normal University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Email: meijie0507 AT gmail.com
