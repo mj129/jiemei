@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Ph.D student at [Media Computing Lab](https://mmcheng.net/) of Nankai University, my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). I received my M.Sc. degree in the Faculty of Geographical Science, Beijing Normal University, advised by Prof. [Liqiang Zhang](http://www.escience.cn/people/zhangliqiang/index.html). I got the B.Sc. degree at Beijing Normal University.
+I am currently a Ph.D student at [Media Computing Lab](https://mmcheng.net/) of Nankai University, my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). I received my M.Sc. degree in the Faculty of Geographical Science, Beijing Normal University, advised by Prof. [Liqiang Zhang](https://geot.bnu.edu.cn/Public/htm/news/5/194.html). I got the B.Sc. degree at Beijing Normal University.
 
 Email: meijie0507 AT gmail.com
